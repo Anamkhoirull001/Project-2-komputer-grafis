@@ -5,5 +5,5 @@
 
 ![image](https://github.com/Anamkhoirull001/Project-2-komputer-grafis/assets/110075674/36000a3c-6d0b-4ede-9483-b5edaa31f34e)
 
-disini saya memakai dua model data yaitu csv dan data langsung bisa juga langsung kunjungi link https://colab.research.google.com/drive/1BmNKJlhc8y6CBsboNNQcDbR_39d7CsL9?usp=sharing
+disini saya memakai dua model data yaitu csv dan data langsung bisa juga langsung kunjungi [Google Colaboratory](https://colab.research.google.com/drive/1BmNKJlhc8y6CBsboNNQcDbR_39d7CsL9?usp=sharing)
 
